@@ -25,6 +25,9 @@ trials: We are trying to categorize results based on number of times the simalat
 
 # Sources Used:
 https://www.investopedia.com/terms/v/var.asp
+
 http://treasurytoday.com/2002/02/value-at-risk-monte-carlo-simulation
+
 https://www.investopedia.com/articles/04/092904.asp
+
 https://financetrain.com/calculating-var-using-monte-carlo-simulation/
