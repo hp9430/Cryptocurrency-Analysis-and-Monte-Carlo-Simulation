@@ -4,7 +4,9 @@
 
 ## Team Member(s):
 Himanshu Pareek
+
 Predeep Kumar Thiagu
+
 Niteesh Kanungo
 
 # Monte Carlo Simulation Scenario & Purpose:
